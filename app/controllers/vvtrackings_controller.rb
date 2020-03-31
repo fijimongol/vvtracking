@@ -1,0 +1,2 @@
+class VvtrackingsController < ApplicationController
+end
